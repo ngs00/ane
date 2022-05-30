@@ -1,4 +1,4 @@
-from n_body_problem.dml import exec_dml
+from ane.n_body_problem.dml import exec_dml
 
 
 mae, rmse, corr = exec_dml(idx_dataset=10,
