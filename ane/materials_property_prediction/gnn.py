@@ -5,7 +5,7 @@ from torch_geometric.nn import CGConv
 from torch_geometric.nn import NNConv
 from torch_geometric.nn import TransformerConv
 from torch_geometric.nn import global_mean_pool
-from util.crystal import *
+from ane.util.crystal import *
 
 
 class GCN(nn.Module):
