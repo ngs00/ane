@@ -5,10 +5,10 @@ from sklearn.metrics import mean_squared_error
 from sklearn.metrics import r2_score
 from torch_geometric.data import Batch
 from torch_geometric.data import DataLoader
-from util.crystal import *
-from materials_property_prediction.gnn import get_gnn
-from util.data import normalize
-from util.data import get_numerical_data_loader
+from ane.util.crystal import *
+from ane.materials_property_prediction.gnn import get_gnn
+from ane.util.data import normalize
+from ane.util.data import get_numerical_data_loader
 
 
 class FCNN(nn.Module):
