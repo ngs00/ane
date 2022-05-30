@@ -1,4 +1,4 @@
-from geomagnetic_strom_forecasting.dml import exec_dml
+from ane.geomagnetic_strom_forecasting.dml import exec_dml
 
 
 mae, rmse, corr, precision, recall, f1 = exec_dml(dataset_name='mnn_a',
