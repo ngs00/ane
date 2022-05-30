@@ -18,6 +18,9 @@ Extrapolation to predict unseen data outside the training distribution is a comm
 * **MagNet NASA (MNN) dataset:** https://www.kaggle.com/arashnic/soalr-wind
 
 
+## Run
+`git checkout -b feature/AmazingFeature`
+
 ## License
 ACM acknowledges that this contribution was authored or co-authored by an employee, contractor or affiliate of a national government. As such, the Government retains a nonexclusive, royalty-free right to publish or reproduce this article, or to allow others to do so, for Government purposes only
 
