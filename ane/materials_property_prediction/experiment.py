@@ -1,4 +1,4 @@
-from materials_property_prediction.dml import exec_dml
+from ane.materials_property_prediction.dml import exec_dml
 
 
 # Index of target materials property
