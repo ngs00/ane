@@ -6,9 +6,9 @@ import torch.nn.functional as F
 from sklearn.metrics import mean_absolute_error
 from sklearn.metrics import mean_squared_error
 from scipy.spatial.distance import correlation
-from n_body_problem.nbody import load_dataset
-from n_body_problem.nbody import get_data_loader
-from n_body_problem.nbody import get_pos
+from ane.n_body_problem.nbody import load_dataset
+from ane.n_body_problem.nbody import get_data_loader
+from ane.n_body_problem.nbody import get_pos
 
 
 class FCNN(nn.Module):
