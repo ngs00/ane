@@ -4,9 +4,8 @@ Extrapolation to predict unseen data outside the training distribution is a comm
 
 * Paper: Gyoung S. Na and Chanyoung Park, Nonlinearity Encoding for Extrapolation of Neural Networks, KDD 2022.
 
-<!-- ABOUT THE PROJECT -->
-## About The Project
-
+## Requirements
+* Python $\geq$ 3.6
 
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
