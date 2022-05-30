@@ -9,10 +9,10 @@ from sklearn.preprocessing import scale
 from sklearn.metrics import mean_absolute_error
 from sklearn.metrics import mean_squared_error
 from scipy.spatial.distance import correlation
-from util.data import normalize
 from torch.utils.data import TensorDataset
 from torch.utils.data import DataLoader
-from geomagnetic_strom_forecasting.storm_detection import detect_storm
+from ane.util.data import normalize
+from ane.geomagnetic_strom_forecasting.storm_detection import detect_storm
 
 
 class FCNN(nn.Module):
