@@ -15,7 +15,7 @@ Extrapolation to predict unseen data outside the training distribution is a comm
 ## Dataset Sources
 * **HOIP dataset:** Chiho Kim et al., A hybrid organic-inorganic perovskite dataset, Sci. Data, 2017.
 * **Materials Project database:** Anubhav Jain et al., A materials genome approach to accelerating materials innovation. APL Mater., 2013.
-
+* **MagNet NASA (MNN) dataset:** https://www.kaggle.com/arashnic/soalr-wind
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
